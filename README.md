@@ -31,7 +31,7 @@
 
 ### 🚀 **Languages & Core**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
 ### ⚡ **Frontend Mastery**
