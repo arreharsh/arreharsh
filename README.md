@@ -77,13 +77,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; **GitHub Stats**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan-91&show_icons=true&theme=tokyonight&hide_border=true&background=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan-91&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
+ 
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-91&layout=compact&theme=tokyonight&hide_border=true&background=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</div>
+
 
 
 
