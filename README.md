@@ -36,7 +36,7 @@
 
 ### ⚡ **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,sass" />
 </p>
 
 ### 🛠️ **Backend & Database**
@@ -65,7 +65,7 @@
 🌱 Learning: GenAI, DeveOps and microservices
 👯 Looking to collaborate on: Open Source Projects & Innovative Startups  
 💼 Open for: Freelance Projects, Full-time Opportunities & Internships
-🎯 2025 Goals: Contribute to Open Source & Master Cloud Native Technologies
+🎯 2026 Goals: Contribute to Open Source & Master Cloud Native Technologies
 ```
 
 <br>
