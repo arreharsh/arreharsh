@@ -10,8 +10,7 @@
 
 <p align="left">
   <ul>
-    
-    <li>⚡ <b>Full-Stack Developer</b> specializing in React, Node, TypeScript & MongoDB</li>
+    <li>⚡Full-Stack Developer specializing in React, Node, TypeScript & MongoDB</li>
     <li>🚀 Passionate about building <b>real-world projects</b> that solve problems</li>
     <li>🌐 Currently exploring <b>DevOps & Cloud technologies</b></li>
     <li>🎯 Always pushing my boundaries and <b>learning new technologies</b></li>
