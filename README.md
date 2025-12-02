@@ -1,4 +1,4 @@
-# <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I'm Harsh Prajapati</h1>
+# <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I'm Harsh </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Hello+Fellow+%3C%2FDevelopers%3E;Full-Stack+Developer;Always+Learning+New+Tech;Freelancer" alt="Typing SVG" />
